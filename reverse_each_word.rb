@@ -1,3 +1,3 @@
 def reverse_each_word(str)
-  arrWords = str.split(' ')
+  arr = str.split(' ')
 end
